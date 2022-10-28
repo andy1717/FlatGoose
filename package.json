@@ -1,16 +1,10 @@
 {
-  "name": "@example/starter",
-  "version": "0.0.1",
+  "name": "up-start-finance",
+  "version": "1.0.0",
   "private": true,
-  "scripts": {
-    "dev": "astro dev",
-    "start": "astro dev",
-    "build": "astro build",
-    "preview": "astro preview"
+  "dependencies": {
+    "parcel-bundler": "^1.6.1"
   },
-  "devDependencies": {
-    "@astrojs/preact": "^1.0.2",
-    "@astrojs/sitemap": "^1.0.0",
-    "astro": "^1.0.6"
-  }
+  "scripts": {},
+  "devDependencies": {}
 }
